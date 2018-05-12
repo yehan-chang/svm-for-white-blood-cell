@@ -1,7 +1,7 @@
 # SVM-for-white-blood-cell
 SVM classification
 
-# KE5206 - COMPUTATIONAL INTELLIGENCE I CA2
+# Overview
 Demonstrate the applications of Support Vector Machine classification to classify 4 different white-blood cell. 
 
 ## Tools Applied
