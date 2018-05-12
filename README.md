@@ -40,3 +40,10 @@ sklearn.metrics.confusion_matrix
 skimage.feature.hog
 matplotlib.pyplot
 ```
+
+## Members
+* Chang Ye Han
+* Chee Jiawei
+* Chua Zhen Liang Desmond
+* Ganesh Kumar
+* Goh Yu Chen
