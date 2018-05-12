@@ -6,7 +6,7 @@ Demonstrate the applications of Support Vector Machine classification to classif
 
 ## Tools Applied
 ```
-Python
+Python 2.7
 Dataset source: https://www.kaggle.com/paultimothymooney/blood-cells
 ```
 
