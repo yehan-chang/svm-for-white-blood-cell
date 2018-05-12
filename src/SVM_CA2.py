@@ -48,7 +48,7 @@ spatial_feat = True # Spatial features on or off
 hist_feat = True # Histogram features on or off
 hog_feat = True # HOG features on or off
 
-SIZE = 2478 # Number of images uses per classifying for training and testing
+SIZE = 2478 # Number of images uses per classification for training and testing
 rescaleFactor = 3.0 # Rescale factor to reduce memory usage
 Cparameter= 0.001
 
