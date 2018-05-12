@@ -28,8 +28,6 @@ Use pip install to install python packages
 ```
 numpy
 cv2
-skimage.feature.hog
-matplotlib.pyplot
 glob
 time
 sklearn.svm.LinearSVC
@@ -39,4 +37,6 @@ sklearn.utils.shuffle
 sklearn.decomposition.PCA
 skimage.transform.rescale
 sklearn.metrics.confusion_matrix
+skimage.feature.hog
+matplotlib.pyplot
 ```
