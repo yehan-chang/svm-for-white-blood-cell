@@ -1,7 +1,7 @@
 """
 ### Items included in Deliverables
 * CA12 Report
-* Dataset for classification problem
+* Readme.md
 * Python Source code
 
 ## Members
